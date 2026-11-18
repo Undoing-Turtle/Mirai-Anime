@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- App Logo -->
-<img src="https://raw.githubusercontent.com/AdnanRanger/Mirai--Anime/main/Mirai-Logo.png" width="120" alt="Mirai Logo" />
+<img src="https://raw.githubusercontent.com/Undoing-Turtle/Mirai-Anime/refs/heads/main/logo.png" width="120" alt="Mirai Logo" />
 
 # Mirai
 
